@@ -2,9 +2,10 @@
 
 ## Project setup
 ```
-1. npm install 
-
-2. npm run serve
+npm install 
+```
+```
+npm run serve
 ```
 [Click](https://yarkirs.ru/) for watch 
 
